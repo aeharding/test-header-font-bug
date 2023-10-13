@@ -1,0 +1,7 @@
+{
+  "name": "test-header-font-bug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
